@@ -2,13 +2,13 @@
 
 前兩個月以學習 Python, MySQL為主
 
-# key_url_all_anime.sql  更改後以url為pk的main table
+* key_url_all_anime.sql  更改後以url為pk的main table
 
-# key_url_anime_list.sql  更改後以url為pk的child table
+* key_url_anime_list.sql  更改後以url為pk的child table
 
-# key.py 抓取資料主程式(使用 BeautifulSoup, requests, re, numpy, pandas套件)
+* key.py 抓取資料主程式(使用 BeautifulSoup, requests, re, numpy, pandas套件)
 
-# GUI.py 資料庫寫入、更新、讀取，以及使用者介面顯示(使用 mysql.connector, re, numpy, pandas, tkinter, matplotlib.pyplot, matplotlib.figure, matplotlib.backends.backend_tkagg, webbrowser套件)
+* GUI.py 資料庫寫入、更新、讀取，以及使用者介面顯示(使用 mysql.connector, re, numpy, pandas, tkinter, matplotlib.pyplot, matplotlib.figure, matplotlib.backends.backend_tkagg, webbrowser套件)
 
 
 2021/03/02 開始建立專題架構。
