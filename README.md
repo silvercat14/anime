@@ -54,7 +54,7 @@
         更新資料庫(刪除無使用到資料、新增顯示圖片之圖片網址)  
         [Creat_SQL.py] [anime0923.ibd]
 
-2023/10 更新GUI介面(優化樣式、增加顯示圖片功能)
-        [Replanning_GUI]
+2023/10 更新GUI介面(優化樣式、增加顯示圖片功能)  
+<br>[Replanning_GUI]
         新增優化說明檔案
         [python小作品優化說明.pdf]
